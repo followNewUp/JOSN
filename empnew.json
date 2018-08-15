@@ -1,0 +1,1341 @@
+{
+    "Data": {
+        "ListOfData": [
+            {
+                "Code": "SSPL002",
+                "Name": "NIKUR MODY",
+                "Salary": 100
+            },
+            {
+                "Code": "ADM",
+                "Name": "Soft-admin Soft-admin",
+                "Salary": 0
+            },
+            {
+                "Code": "SSPL036",
+                "Name": "GUNJAN GANDHI",
+                "Salary": 86200
+            },
+            {
+                "Code": "SSPL003",
+                "Name": "SHILPA DESAI",
+                "Salary": 93500
+            },
+            {
+                "Code": "SSPL014",
+                "Name": "JIGNESH PATEL",
+                "Salary": 69861
+            },
+            {
+                "Code": "SSPL080",
+                "Name": "RANJIT PATEL",
+                "Salary": 66409
+            },
+            {
+                "Code": "CommonUser",
+                "Name": "Common",
+                "Salary": 0
+            },
+            {
+                "Code": "SSPL101",
+                "Name": "JENIT SANGHVI",
+                "Salary": 68000
+            },
+            {
+                "Code": "SSPL112",
+                "Name": "BHUPENDRASINGH RAJPUT",
+                "Salary": 79500
+            },
+            {
+                "Code": "SSPL001",
+                "Name": "DILIP MODY",
+                "Salary": 100
+            },
+            {
+                "Code": "SSPL004",
+                "Name": "TATSAT DAVE",
+                "Salary": 90000
+            },
+            {
+                "Code": "SSPL103",
+                "Name": "JAYDEEPSINH RATHOD",
+                "Salary": 22193
+            },
+            {
+                "Code": "SSPL169",
+                "Name": "RITHWIK SURYAVANSHI",
+                "Salary": 44200
+            },
+            {
+                "Code": "SSPL185",
+                "Name": "ASHISH PRAJAPATI",
+                "Salary": 71236
+            },
+            {
+                "Code": "SSPL192",
+                "Name": "HIREN GARDHARIA",
+                "Salary": 59227
+            },
+            {
+                "Code": "SSPL209",
+                "Name": "VIRENDRA SINGH",
+                "Salary": 49500
+            },
+            {
+                "Code": "SSPL215",
+                "Name": "VATSAL MANKAD",
+                "Salary": 63010
+            },
+            {
+                "Code": "SSPL233",
+                "Name": "NIKUNJ PUROHIT",
+                "Salary": 42200
+            },
+            {
+                "Code": "SSPL238",
+                "Name": "SANDEEP KORDE",
+                "Salary": 60000
+            },
+            {
+                "Code": "SSPL240",
+                "Name": "AADITYA CHAUBEY",
+                "Salary": 71000
+            },
+            {
+                "Code": "SSPL241",
+                "Name": "ROHIT JAIN",
+                "Salary": 51000
+            },
+            {
+                "Code": "SSPL252",
+                "Name": "MOSAM VATNANI",
+                "Salary": 42000
+            },
+            {
+                "Code": "SSPL259",
+                "Name": "SAMIR PATEL",
+                "Salary": 48000
+            },
+            {
+                "Code": "SSPL260",
+                "Name": "MAYUR RUPALA",
+                "Salary": 54735
+            },
+            {
+                "Code": "SSPL264",
+                "Name": "VISHWA SHAH",
+                "Salary": 37820
+            },
+            {
+                "Code": "SSPL268",
+                "Name": "TARUN JAIN",
+                "Salary": 27700
+            },
+            {
+                "Code": "SSPL270",
+                "Name": "VIJAY MEWANI",
+                "Salary": 56750
+            },
+            {
+                "Code": "SSPL272",
+                "Name": "JAY CHAUHAN",
+                "Salary": 52550
+            },
+            {
+                "Code": "SSPL285",
+                "Name": "JOY PATEL",
+                "Salary": 64000
+            },
+            {
+                "Code": "SSPL294",
+                "Name": "KRUTI SALOT",
+                "Salary": 40640
+            },
+            {
+                "Code": "SSPL306",
+                "Name": "SANKET SHAH",
+                "Salary": 47850
+            },
+            {
+                "Code": "SSPL317",
+                "Name": "FALGUN DOSHI",
+                "Salary": 32463
+            },
+            {
+                "Code": "SSPL318",
+                "Name": "HIRAL RAJPUT",
+                "Salary": 33330
+            },
+            {
+                "Code": "SSPL324",
+                "Name": "KUNAL PAREKH",
+                "Salary": 39850
+            },
+            {
+                "Code": "SSPL333",
+                "Name": "HITESH CHOTALIYA",
+                "Salary": 46640
+            },
+            {
+                "Code": "SSPL340",
+                "Name": "HARDIK SHAH",
+                "Salary": 40500
+            },
+            {
+                "Code": "SSPL342",
+                "Name": "DHAVAL BHATT",
+                "Salary": 54000
+            },
+            {
+                "Code": "SSPL345",
+                "Name": "PARMINDERSINGH YADAV",
+                "Salary": 61851
+            },
+            {
+                "Code": "SSPL350",
+                "Name": "SAMARTH SEVAK",
+                "Salary": 36025
+            },
+            {
+                "Code": "SSPL355",
+                "Name": "SACHIN PAREJIYA",
+                "Salary": 35910
+            },
+            {
+                "Code": "SSPL358",
+                "Name": "NARSINH PRAJAPATI",
+                "Salary": 28800
+            },
+            {
+                "Code": "SSPL372",
+                "Name": "WILSON CHRISTIE",
+                "Salary": 17000
+            },
+            {
+                "Code": "SSPL374",
+                "Name": "SUVENDU PRADHAN",
+                "Salary": 25600
+            },
+            {
+                "Code": "SSPL375",
+                "Name": "SATISH BHALEKAR",
+                "Salary": 21831
+            },
+            {
+                "Code": "SSPL377",
+                "Name": "SIMOLI SHAH",
+                "Salary": 50750
+            },
+            {
+                "Code": "SSPL382",
+                "Name": "SHAKTI PRASAD SAHOO",
+                "Salary": 27700
+            },
+            {
+                "Code": "SSPL400",
+                "Name": "KALPESH PATEL",
+                "Salary": 30200
+            },
+            {
+                "Code": "SSPL404",
+                "Name": "RAHUL RUPARELIYA",
+                "Salary": 26500
+            },
+            {
+                "Code": "SSPL405",
+                "Name": "PARTH BHAVSAR",
+                "Salary": 38100
+            },
+            {
+                "Code": "SSPL408",
+                "Name": "NIKUNJ PANCHAL",
+                "Salary": 33150
+            },
+            {
+                "Code": "SSPL413",
+                "Name": "RONAK KHILOSIYA",
+                "Salary": 29250
+            },
+            {
+                "Code": "SSPL416",
+                "Name": "DHARMENDRAKUMAR JADAV",
+                "Salary": 30825
+            },
+            {
+                "Code": "SSPL417",
+                "Name": "NIRAV PATEL",
+                "Salary": 12500
+            },
+            {
+                "Code": "SSPL424",
+                "Name": "VIJAYKUMAR BAGADA",
+                "Salary": 22193
+            },
+            {
+                "Code": "SSPL430",
+                "Name": "FORAM KARIA",
+                "Salary": 12500
+            },
+            {
+                "Code": "SSPL431",
+                "Name": "ASHISHKUMAR GIRASE",
+                "Salary": 29500
+            },
+            {
+                "Code": "SSPL432",
+                "Name": "SHIKHA MANIYAR",
+                "Salary": 21831
+            },
+            {
+                "Code": "SSPL435",
+                "Name": "RIDDHI MEHTA",
+                "Salary": 60119
+            },
+            {
+                "Code": "SSPL440",
+                "Name": "HARDI SHAH",
+                "Salary": 37750
+            },
+            {
+                "Code": "SSPL448",
+                "Name": "KRUPA SHAH",
+                "Salary": 27350
+            },
+            {
+                "Code": "SSPL450",
+                "Name": "SUHANI MEHTA",
+                "Salary": 36500
+            },
+            {
+                "Code": "SSPL452",
+                "Name": "YESHA MEHTA",
+                "Salary": 51000
+            },
+            {
+                "Code": "SSPL453",
+                "Name": "HARDIK THAKORE",
+                "Salary": 45700
+            },
+            {
+                "Code": "SSPL455",
+                "Name": "KAMAL BHAGAT",
+                "Salary": 42500
+            },
+            {
+                "Code": "SSPL456",
+                "Name": "RIDDHI DOSHI",
+                "Salary": 20000
+            },
+            {
+                "Code": "SSPL460",
+                "Name": "JENIL GAJERA",
+                "Salary": 40600
+            },
+            {
+                "Code": "SSPL465",
+                "Name": "VINEET CHOURASIA",
+                "Salary": 22100
+            },
+            {
+                "Code": "SSPL467",
+                "Name": "KETAN MULIYA",
+                "Salary": 27930
+            },
+            {
+                "Code": "SSPL468",
+                "Name": "SAMIR RANA",
+                "Salary": 38750
+            },
+            {
+                "Code": "SSPL471",
+                "Name": "MAYUR PATEL",
+                "Salary": 47560
+            },
+            {
+                "Code": "SSPL478",
+                "Name": "KUSHAL DOSHI",
+                "Salary": 50700
+            },
+            {
+                "Code": "SSPL483",
+                "Name": "KARAN PANDYA",
+                "Salary": 25010
+            },
+            {
+                "Code": "SSPL484",
+                "Name": "KUNAL JAIN",
+                "Salary": 26500
+            },
+            {
+                "Code": "SSPL487",
+                "Name": "SADDAM PAWAR",
+                "Salary": 26200
+            },
+            {
+                "Code": "SSPL488",
+                "Name": "JAY PANDYA",
+                "Salary": 22100
+            },
+            {
+                "Code": "SSPL493",
+                "Name": "MUKUL LAD",
+                "Salary": 50500
+            },
+            {
+                "Code": "SSPL494",
+                "Name": "DARSHIL SANGHVI",
+                "Salary": 43500
+            },
+            {
+                "Code": "SSPL498",
+                "Name": "NITISH KHANDEL",
+                "Salary": 21831
+            },
+            {
+                "Code": "SSPL502",
+                "Name": "LALABHAI RATHOD",
+                "Salary": 12780
+            },
+            {
+                "Code": "SSPL504",
+                "Name": "VIKAS DUBEY",
+                "Salary": 38100
+            },
+            {
+                "Code": "SSPL505",
+                "Name": "RIKIN DHOLAKIA",
+                "Salary": 17550
+            },
+            {
+                "Code": "SSPL512",
+                "Name": "KINJAL AJMERA",
+                "Salary": 23660
+            },
+            {
+                "Code": "SSPL515",
+                "Name": "ARPIT SHAH",
+                "Salary": 29931
+            },
+            {
+                "Code": "SSPL516",
+                "Name": "VIVEK PATEL",
+                "Salary": 40200
+            },
+            {
+                "Code": "SSPL517",
+                "Name": "DEVCHAND THAKKAR",
+                "Salary": 22193
+            },
+            {
+                "Code": "SSPL518",
+                "Name": "MANALI PATEL",
+                "Salary": 17500
+            },
+            {
+                "Code": "SSPL520",
+                "Name": "HRUSHIKESH AKRUWALA",
+                "Salary": 34500
+            },
+            {
+                "Code": "SSPL521",
+                "Name": "NAYAN BAROT",
+                "Salary": 23500
+            },
+            {
+                "Code": "SSPL523",
+                "Name": "ALOK SHARMA",
+                "Salary": 41500
+            },
+            {
+                "Code": "SSPL524",
+                "Name": "SHRUTI BHALANI",
+                "Salary": 24500
+            },
+            {
+                "Code": "SSPL525",
+                "Name": "JINISH GANDHI",
+                "Salary": 13000
+            },
+            {
+                "Code": "SSPL526",
+                "Name": "PRUTHA VEKARIA",
+                "Salary": 21831
+            },
+            {
+                "Code": "SSPL527",
+                "Name": "CHIRAG VINCHHI",
+                "Salary": 27500
+            },
+            {
+                "Code": "SSPL529",
+                "Name": "VISHAL KHUNT",
+                "Salary": 25000
+            },
+            {
+                "Code": "SSPL532",
+                "Name": "HARSH THAKORE",
+                "Salary": 21700
+            },
+            {
+                "Code": "SSPL533",
+                "Name": "PUNIT POSHIYA",
+                "Salary": 22420
+            },
+            {
+                "Code": "SSPL534",
+                "Name": "NISHIL NATHAWANI",
+                "Salary": 32226
+            },
+            {
+                "Code": "SSPL537",
+                "Name": "HARSHITKUMAR SHAH",
+                "Salary": 25760
+            },
+            {
+                "Code": "SSPL539",
+                "Name": "JAVED KURESHI",
+                "Salary": 23720
+            },
+            {
+                "Code": "SSPL540",
+                "Name": "MARALI KIRAN",
+                "Salary": 24100
+            },
+            {
+                "Code": "SSPL541",
+                "Name": "KRUNAL PATEL",
+                "Salary": 21831
+            },
+            {
+                "Code": "SSPL542",
+                "Name": "YASH SHAH",
+                "Salary": 27265
+            },
+            {
+                "Code": "SSPL543",
+                "Name": "DIVYESH CHARADAVA",
+                "Salary": 35083
+            },
+            {
+                "Code": "SSPL544",
+                "Name": "RAMESH MEENA",
+                "Salary": 12780
+            },
+            {
+                "Code": "SSPL545",
+                "Name": "VIKRAM PRAJAPATI",
+                "Salary": 17000
+            },
+            {
+                "Code": "SSPL546",
+                "Name": "NEHABANO ANSARI",
+                "Salary": 16900
+            },
+            {
+                "Code": "SSPL549",
+                "Name": "JAINIL SHAH",
+                "Salary": 25900
+            },
+            {
+                "Code": "SSPL550",
+                "Name": "JASMIN VALANI",
+                "Salary": 25000
+            },
+            {
+                "Code": "SSPL551",
+                "Name": "SHAILESH PATEL",
+                "Salary": 38320
+            },
+            {
+                "Code": "SSPL552",
+                "Name": "AARON FERNANDES",
+                "Salary": 32981
+            },
+            {
+                "Code": "SSPL555",
+                "Name": "VIVEK SAMANI",
+                "Salary": 21831
+            },
+            {
+                "Code": "SSPL556",
+                "Name": "PARAG SHAH",
+                "Salary": 27300
+            },
+            {
+                "Code": "SSPL557",
+                "Name": "BHAVIKCHANDRA BOSAMIA",
+                "Salary": 21831
+            },
+            {
+                "Code": "SSPL559",
+                "Name": "SAURABH SHARMA",
+                "Salary": 33077
+            },
+            {
+                "Code": "SSPL560",
+                "Name": "MAYUR KORADIYA",
+                "Salary": 23150
+            },
+            {
+                "Code": "SSPL561",
+                "Name": "AKSHAY PATEL",
+                "Salary": 21831
+            },
+            {
+                "Code": "SSPL562",
+                "Name": "HIREN RAMI",
+                "Salary": 36775
+            },
+            {
+                "Code": "SSPL564",
+                "Name": "SAGAR SONI",
+                "Salary": 38331
+            },
+            {
+                "Code": "SSPL565",
+                "Name": "DHRUTIKSHA MODI",
+                "Salary": 16000
+            },
+            {
+                "Code": "SSPL567",
+                "Name": "DHRUVI SHAH",
+                "Salary": 16000
+            },
+            {
+                "Code": "SSPL568",
+                "Name": "PRIYANK MAKADIA",
+                "Salary": 16000
+            },
+            {
+                "Code": "SSPL569",
+                "Name": "KRISHNA PATEL",
+                "Salary": 16000
+            },
+            {
+                "Code": "SSPL570",
+                "Name": "KRUPA RIJIYA",
+                "Salary": 16000
+            },
+            {
+                "Code": "SSPL571",
+                "Name": "YASHIKA MEHTA",
+                "Salary": 16000
+            },
+            {
+                "Code": "SSPL573",
+                "Name": "VIDHI MEHTA",
+                "Salary": 16000
+            },
+            {
+                "Code": "SSPL575",
+                "Name": "VIJAY RATHOD",
+                "Salary": 16000
+            },
+            {
+                "Code": "SSPL576",
+                "Name": "HARSHIL DHARSANDIYA",
+                "Salary": 16000
+            },
+            {
+                "Code": "SSPL578",
+                "Name": "DHAVAL KASUNDRA",
+                "Salary": 16000
+            },
+            {
+                "Code": "SSPL579",
+                "Name": "DARSHAN DESAI",
+                "Salary": 22000
+            },
+            {
+                "Code": "SSPL580",
+                "Name": "AKSHAY PATEL",
+                "Salary": 16000
+            },
+            {
+                "Code": "SSPL581",
+                "Name": "MOHSIN JESANI",
+                "Salary": 16000
+            },
+            {
+                "Code": "SSPL583",
+                "Name": "ANKITA JAIN",
+                "Salary": 44000
+            },
+            {
+                "Code": "SSPL584",
+                "Name": "JEKISHAN BUSHA",
+                "Salary": 29000
+            },
+            {
+                "Code": "SSPL585",
+                "Name": "BHUSHAN WAGH",
+                "Salary": 36960
+            },
+            {
+                "Code": "SSPL586",
+                "Name": "APURV SHAH",
+                "Salary": 23000
+            },
+            {
+                "Code": "SSPL587",
+                "Name": "DIPAL JOSHI",
+                "Salary": 27931
+            },
+            {
+                "Code": "SSPL588",
+                "Name": "HARSHINI YAMJALA",
+                "Salary": 33000
+            },
+            {
+                "Code": "SSPL589",
+                "Name": "BHAVIN PATEL",
+                "Salary": 18130
+            },
+            {
+                "Code": "SSPL590",
+                "Name": "AKSHAY MISTRY",
+                "Salary": 21000
+            },
+            {
+                "Code": "SSPL591",
+                "Name": "HARDIK PATEL",
+                "Salary": 21931
+            },
+            {
+                "Code": "SSPL592",
+                "Name": "ANKIT SHAH",
+                "Salary": 16000
+            },
+            {
+                "Code": "SSPL593",
+                "Name": "KRUNAL BAROT",
+                "Salary": 16000
+            },
+            {
+                "Code": "SSPL594",
+                "Name": "MRUGESH SONI",
+                "Salary": 32000
+            },
+            {
+                "Code": "SSPL596",
+                "Name": "BRIJAL PATEL",
+                "Salary": 22000
+            },
+            {
+                "Code": "SSPL598",
+                "Name": "ANUJ SHAH",
+                "Salary": 54000
+            },
+            {
+                "Code": "SSPL599",
+                "Name": "PRAKASH CHAUHAN",
+                "Salary": 28000
+            },
+            {
+                "Code": "SSPL600",
+                "Name": "BHARDWAJA JALLA",
+                "Salary": 30140
+            },
+            {
+                "Code": "SSPL601",
+                "Name": "ARPI PARIKH",
+                "Salary": 30931
+            },
+            {
+                "Code": "SSPL602",
+                "Name": "MANOJ MAHERIYA",
+                "Salary": 35200
+            },
+            {
+                "Code": "SSPL603",
+                "Name": "KRUNAL PANDYA",
+                "Salary": 19000
+            },
+            {
+                "Code": "SSPL604",
+                "Name": "ARPITA SUTHAR",
+                "Salary": 5000
+            },
+            {
+                "Code": "SSPL605",
+                "Name": "PRIYA PAL",
+                "Salary": 17700
+            },
+            {
+                "Code": "SSPL606",
+                "Name": "MEGHANA MEHTA",
+                "Salary": 34914
+            },
+            {
+                "Code": "SSPL608",
+                "Name": "BHUMI VYAS",
+                "Salary": 60000
+            },
+            {
+                "Code": "SSPL609",
+                "Name": "GAURAV SHARMA",
+                "Salary": 22000
+            },
+            {
+                "Code": "SSPL610",
+                "Name": "PAYAL JAIN",
+                "Salary": 24431
+            },
+            {
+                "Code": "SSPL611",
+                "Name": "MANIKUMAR YANDRAPU",
+                "Salary": 16000
+            },
+            {
+                "Code": "SSPL612",
+                "Name": "AMIT SHIKARWAR",
+                "Salary": 42164
+            },
+            {
+                "Code": "SSPL613",
+                "Name": "DIVYA SHARMA",
+                "Salary": 38531
+            },
+            {
+                "Code": "SSPL614",
+                "Name": "KHUSHALI SHAH",
+                "Salary": 27931
+            },
+            {
+                "Code": "SSPL615",
+                "Name": "DHAIRYA BHATT",
+                "Salary": 28931
+            },
+            {
+                "Code": "SSPL618",
+                "Name": "HARSHIDA PATEL",
+                "Salary": 23000
+            },
+            {
+                "Code": "SSPL621",
+                "Name": "PALAK PATEL",
+                "Salary": 26831
+            },
+            {
+                "Code": "SSPL622",
+                "Name": "PAURAV KHATRI",
+                "Salary": 16000
+            },
+            {
+                "Code": "SSPL623",
+                "Name": "DHRUMIL SHAH",
+                "Salary": 16000
+            },
+            {
+                "Code": "SSPL624",
+                "Name": "DIPEN PANDYA",
+                "Salary": 16000
+            },
+            {
+                "Code": "SSPL625",
+                "Name": "MAHIR MANIAR",
+                "Salary": 16000
+            },
+            {
+                "Code": "SSPL626",
+                "Name": "ANURAG MATHUR",
+                "Salary": 89167
+            },
+            {
+                "Code": "SSPL627",
+                "Name": "SHIVBHADRASINH CHUDASAMA",
+                "Salary": 20300
+            },
+            {
+                "Code": "SSPL628",
+                "Name": "KEYUR SATYADEV",
+                "Salary": 72500
+            },
+            {
+                "Code": "SSPL629",
+                "Name": "NIKHIL MAKVANA",
+                "Salary": 5000
+            },
+            {
+                "Code": "SSPL630",
+                "Name": "JINAL SHAH",
+                "Salary": 14000
+            },
+            {
+                "Code": "SSPL631",
+                "Name": "RADHIKA RAMPARIYA",
+                "Salary": 18000
+            },
+            {
+                "Code": "SSPL632",
+                "Name": "TRUSHTI SHAH",
+                "Salary": 5000
+            },
+            {
+                "Code": "SSPL633",
+                "Name": "GHANSHYAM PATEL",
+                "Salary": 45500
+            },
+            {
+                "Code": "SSPL634",
+                "Name": "PARI SUBBIAH",
+                "Salary": 107500
+            },
+            {
+                "Code": "SSPL636",
+                "Name": "KARUNA JIVANI",
+                "Salary": 45000
+            },
+            {
+                "Code": "SSPL637",
+                "Name": "HIREN VAISHNAV",
+                "Salary": 38500
+            },
+            {
+                "Code": "SSPL638",
+                "Name": "VIRAJ SHAH",
+                "Salary": 19500
+            },
+            {
+                "Code": "SSPL639",
+                "Name": "BHAVESH DARJI",
+                "Salary": 52000
+            },
+            {
+                "Code": "SSPL641",
+                "Name": "JAYDEEP SOLANKI",
+                "Salary": 41500
+            },
+            {
+                "Code": "SSPL642",
+                "Name": "JEEVITHA ROSALI",
+                "Salary": 37200
+            },
+            {
+                "Code": "SSPL644",
+                "Name": "STAVAN SHAH",
+                "Salary": 15464
+            },
+            {
+                "Code": "SSPL645",
+                "Name": "JUI SHAH",
+                "Salary": 39931
+            },
+            {
+                "Code": "SSPL646",
+                "Name": "NIKHIL LIMBACHIYA",
+                "Salary": 30931
+            },
+            {
+                "Code": "SSPL647",
+                "Name": "MALKESH DUTTA",
+                "Salary": 32931
+            },
+            {
+                "Code": "SSPL648",
+                "Name": "RUTU DIXIT",
+                "Salary": 14000
+            },
+            {
+                "Code": "SSPL649",
+                "Name": "JAYESH RUPAREL",
+                "Salary": 13865
+            },
+            {
+                "Code": "SSPL650",
+                "Name": "MOHANKUMAR BASARAVAJU",
+                "Salary": 28931
+            },
+            {
+                "Code": "SSPL651",
+                "Name": "SAUMIL SHAH",
+                "Salary": 125643
+            },
+            {
+                "Code": "SSPL652",
+                "Name": "MILAN SHEKHAT",
+                "Salary": 22931
+            },
+            {
+                "Code": "SSPL653",
+                "Name": "ANJANA JAIN",
+                "Salary": 17000
+            },
+            {
+                "Code": "SSPL654",
+                "Name": "JAYDIP PRAJAPATI",
+                "Salary": 18130
+            },
+            {
+                "Code": "SSPL655",
+                "Name": "RINKAL MAKWANA",
+                "Salary": 21931
+            },
+            {
+                "Code": "SSPL656",
+                "Name": "KASULA VISHWANATH",
+                "Salary": 116643
+            },
+            {
+                "Code": "SSPL657",
+                "Name": "SNEHAL DESAI",
+                "Salary": 26931
+            },
+            {
+                "Code": "SSPL659",
+                "Name": "VIVEK BHATIA",
+                "Salary": 18130
+            },
+            {
+                "Code": "SSPL660",
+                "Name": "JASH BHATT",
+                "Salary": 16000
+            },
+            {
+                "Code": "SSPL661",
+                "Name": "KRINA DESAI",
+                "Salary": 16700
+            },
+            {
+                "Code": "SSPL662",
+                "Name": "DHRUVI SONI",
+                "Salary": 18314
+            },
+            {
+                "Code": "SSPL663",
+                "Name": "RAJESHKUMAR GALDHARIA",
+                "Salary": 28931
+            },
+            {
+                "Code": "SSPL664",
+                "Name": "LOKESH HAMMAD",
+                "Salary": 36083
+            },
+            {
+                "Code": "SSPL665",
+                "Name": "CHIRAG PRAJAPATI",
+                "Salary": 45000
+            },
+            {
+                "Code": "SSPL666",
+                "Name": "KAVITA AMRUTKAR",
+                "Salary": 16000
+            },
+            {
+                "Code": "SSPL667",
+                "Name": "MAHIPAL PANWAR",
+                "Salary": 25000
+            },
+            {
+                "Code": "SSPL668",
+                "Name": "PARTH THAKKAR",
+                "Salary": 16700
+            },
+            {
+                "Code": "SSPL669",
+                "Name": "CHIRAG DHORAJIYA",
+                "Salary": 16700
+            },
+            {
+                "Code": "SSPL670",
+                "Name": "TANVEER ANSARI",
+                "Salary": 16700
+            },
+            {
+                "Code": "SSPL671",
+                "Name": "SANDIP TALREJA",
+                "Salary": 16700
+            },
+            {
+                "Code": "SSPL672",
+                "Name": "SWAPNIL PANT",
+                "Salary": 16700
+            },
+            {
+                "Code": "SSPL673",
+                "Name": "SAURABH RAJPUT",
+                "Salary": 16700
+            },
+            {
+                "Code": "SSPL674",
+                "Name": "JINAY SHAH",
+                "Salary": 16700
+            },
+            {
+                "Code": "SSPL675",
+                "Name": "ZEEL PATEL",
+                "Salary": 16700
+            },
+            {
+                "Code": "SSPL676",
+                "Name": "DIPAL PRAJAPATI",
+                "Salary": 16700
+            },
+            {
+                "Code": "SSPL677",
+                "Name": "VIRPALSINH RATHOD",
+                "Salary": 16700
+            },
+            {
+                "Code": "SSPL678",
+                "Name": "ALPESH THAKKAR",
+                "Salary": 16700
+            },
+            {
+                "Code": "SSPL679",
+                "Name": "VISHAL PATEL",
+                "Salary": 16700
+            },
+            {
+                "Code": "SSPL680",
+                "Name": "DHARMENDRA PATEL",
+                "Salary": 16700
+            },
+            {
+                "Code": "SSPL681",
+                "Name": "RITU PATEL",
+                "Salary": 16700
+            },
+            {
+                "Code": "SSPL682",
+                "Name": "JOYAL GOKLANI",
+                "Salary": 16700
+            },
+            {
+                "Code": "SSPL683",
+                "Name": "KUSHAL SEJPAL",
+                "Salary": 16700
+            },
+            {
+                "Code": "SSPL684",
+                "Name": "MOHD IRFAN SHAIKH",
+                "Salary": 16700
+            },
+            {
+                "Code": "SSPL685",
+                "Name": "SHREYA SHAH",
+                "Salary": 16700
+            },
+            {
+                "Code": "SSPL686",
+                "Name": "SHRADDHA PATHAK",
+                "Salary": 16700
+            },
+            {
+                "Code": "SSPL687",
+                "Name": "MANSI SIRJA",
+                "Salary": 16700
+            },
+            {
+                "Code": "SSPL688",
+                "Name": "VINAYKUMAR PATEL",
+                "Salary": 16700
+            },
+            {
+                "Code": "SSPL689",
+                "Name": "ROBINKUMAR ADHIKARY",
+                "Salary": 128643
+            },
+            {
+                "Code": "SSPL690",
+                "Name": "PAWANKUMAR GUPTA",
+                "Salary": 45000
+            },
+            {
+                "Code": "SSPL691",
+                "Name": "MANISH KUMAR SINGH",
+                "Salary": 22531
+            },
+            {
+                "Code": "SSPL692",
+                "Name": "ALPESHKUMAR SANKHAT",
+                "Salary": 32954
+            },
+            {
+                "Code": "SSPL693",
+                "Name": "KRUNAL GANDHI",
+                "Salary": 27931
+            },
+            {
+                "Code": "SSPL694",
+                "Name": "RINA DHOLAKIA",
+                "Salary": 30462
+            },
+            {
+                "Code": "SSPL695",
+                "Name": "MANISH GOR",
+                "Salary": 49846
+            },
+            {
+                "Code": "SSPL696",
+                "Name": "SANKET DEVI",
+                "Salary": 13846
+            },
+            {
+                "Code": "SSPL697",
+                "Name": "PRANESHA GS",
+                "Salary": 49846
+            },
+            {
+                "Code": "SSPL698",
+                "Name": "FENIL SUTHAR",
+                "Salary": 41538
+            },
+            {
+                "Code": "SSPL699",
+                "Name": "MURALI VENKATARAMAN",
+                "Salary": 166667
+            },
+            {
+                "Code": "SSPL700",
+                "Name": "SANJAYBHAI DALSANIYA",
+                "Salary": 48000
+            },
+            {
+                "Code": "SSPL701",
+                "Name": "JAGDISH MAKWANA",
+                "Salary": 21785
+            },
+            {
+                "Code": "SSPL702",
+                "Name": "AMIT PATEL",
+                "Salary": 32308
+            },
+            {
+                "Code": "SSPL703",
+                "Name": "KALYAN MUGALIKAR",
+                "Salary": 16000
+            },
+            {
+                "Code": "SSPL704",
+                "Name": "SHUBHAM GARG",
+                "Salary": 46154
+            },
+            {
+                "Code": "SSPL705",
+                "Name": "KASI REDDY",
+                "Salary": 49846
+            },
+            {
+                "Code": "SSPL706",
+                "Name": "TEJAS MODI",
+                "Salary": 29538
+            },
+            {
+                "Code": "SSPL707",
+                "Name": "ARVIND YADAV",
+                "Salary": 29538
+            },
+            {
+                "Code": "SSPL708",
+                "Name": "TUSHAR SHAH",
+                "Salary": 1
+            },
+            {
+                "Code": "SSPL709",
+                "Name": "NIKUNJ GOHEL",
+                "Salary": 16616
+            },
+            {
+                "Code": "SSPL710",
+                "Name": "JAYDEEP BARAD",
+                "Salary": 55385
+            },
+            {
+                "Code": "SSPL711",
+                "Name": "NIRAJ PATEL",
+                "Salary": 24923
+            },
+            {
+                "Code": "SSPL712",
+                "Name": "VIRENDRASINH BARAD",
+                "Salary": 15415
+            },
+            {
+                "Code": "SSPL713",
+                "Name": "NIRALI PATEL",
+                "Salary": 35077
+            },
+            {
+                "Code": "SSPL714",
+                "Name": "SUDAM DAS",
+                "Salary": 60000
+            },
+            {
+                "Code": "SSPL715",
+                "Name": "NIKSHITA LATHIYA",
+                "Salary": 15415
+            },
+            {
+                "Code": "SSPL716",
+                "Name": "JITENDRA BHATT",
+                "Salary": 55385
+            },
+            {
+                "Code": "SSPL717",
+                "Name": "REEMA DARJI",
+                "Salary": 5000
+            },
+            {
+                "Code": "SSPL718",
+                "Name": "CHIRAGKUMAR PARMAR",
+                "Salary": 49846
+            },
+            {
+                "Code": "SSPL719",
+                "Name": "SHIVA NACHAM",
+                "Salary": 33231
+            },
+            {
+                "Code": "SSPL720",
+                "Name": "SUNIL SHARMA",
+                "Salary": 29538
+            },
+            {
+                "Code": "SSPL721",
+                "Name": "SACHIN RODGE",
+                "Salary": 26492
+            },
+            {
+                "Code": "SSPL722",
+                "Name": "KETANBHAI VAGHASIYA",
+                "Salary": 58154
+            },
+            {
+                "Code": "SSPL723",
+                "Name": "AAGAM DOSHI",
+                "Salary": 35077
+            },
+            {
+                "Code": "SSPL724",
+                "Name": "ASMITA SHARMA",
+                "Salary": 116666
+            },
+            {
+                "Code": "SSPL725",
+                "Name": "JINNY JOHNSON",
+                "Salary": 29538
+            },
+            {
+                "Code": "SSPL726",
+                "Name": "MOHIT KAMDAR",
+                "Salary": 17076
+            },
+            {
+                "Code": "SSPL727",
+                "Name": "MAHABOOB SHAIK",
+                "Salary": 40615
+            },
+            {
+                "Code": "SSPL728",
+                "Name": "PRACHI JOSHI",
+                "Salary": 22154
+            },
+            {
+                "Code": "SSPL729",
+                "Name": "RAHUL JAIN",
+                "Salary": 30461
+            }
+        ]
+    }
+}
